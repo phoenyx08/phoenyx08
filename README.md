@@ -57,4 +57,3 @@ Ollama • FAISS • LangChain • Python • FastAPI • Docker • Git
 
 > "Make AI useful, not just impressive."
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phoenyx08&show_icons=true&theme=tokyonight)
