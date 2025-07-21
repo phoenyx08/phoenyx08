@@ -11,7 +11,7 @@ Right now, my work is centered on:
 
 ## 🧪 Featured Projects
 
-- 🔌 [**Yvo Bot Backend**](https://github.com/phoenyx08/yvo-bot-backend)  
+- 🔌 [**Your Very Own Chatbot**](https://github.com/phoenyx08/yvo-bot-backend)  
   Local AI assistant using Ollama, command routing, and dynamic tool invocation.
 
 - 🧠 [**Airwindows Expert**](https://github.com/phoenyx08/airwindows-expert)  
